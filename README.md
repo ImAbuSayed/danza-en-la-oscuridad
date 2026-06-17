@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/danza-en-la-oscuridad/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Obtain a Music License for Danza en la oscuridad](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/danza-en-la-oscuridad/) |
+| **Get License** | [Request Licensing for Danza en la oscuridad](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/danza-en-la-oscuridad/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Baby, la noche está oscura pero tú brillas más
+> Siento la química, dime si te atreves a escapar
+> Tú tienes ese veneno que me hace alucinar
+> One look in your eyes, y ya no hay vuelta atrás
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
